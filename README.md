@@ -25,7 +25,7 @@ A dynamic calendar application built with React, featuring ShadCN components for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calendar-app.git
+   git clone https://github.com/hkumariitr/event-management-app
    cd calendar-app
    ```
 
